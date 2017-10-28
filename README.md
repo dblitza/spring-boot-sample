@@ -1,4 +1,4 @@
-Doma  with Spring Boot [![codecov](https://codecov.io/gh/dblitza/spring-cloud-netflix-example/branch/master/graph/badge.svg)](https://codecov.io/gh/dblitza/spring-cloud-netflix-example)
+Doma  with Spring Boot    [![codecov](https://codecov.io/gh/dblitza/spring-cloud-netflix-example/branch/master/graph/badge.svg)](https://codecov.io/gh/dblitza/spring-cloud-netflix-example)
 
 ========================================
 
