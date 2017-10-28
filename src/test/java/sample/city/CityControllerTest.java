@@ -25,6 +25,7 @@ public class CityControllerTest {
 
     @Test
     public void test() throws Exception {
+        
         // {
         //     // Select
         //     List<City> cities = restTemplate.exchange("http://localhost:" + port, HttpMethod.GET, HttpEntity.EMPTY, new ParameterizedTypeReference<List<City>>() {
