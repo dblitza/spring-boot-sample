@@ -1,4 +1,5 @@
-Doma  with Spring Boot
+Doma  with Spring Boot [![codecov](https://codecov.io/gh/dblitza/spring-cloud-netflix-example/branch/master/graph/badge.svg)](https://codecov.io/gh/dblitza/spring-cloud-netflix-example)
+
 ========================================
 
 This sample shows how easy to integrate [Doma][doma] with  [Spring Boot][spring-boot] .
